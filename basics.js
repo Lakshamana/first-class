@@ -126,9 +126,9 @@ import {isEqual} from 'path'
 
 //Nomeclatura de variaveis
 
-let 1var; // nao pode
+// let 1var; // nao pode
 let var1;// pode
-let if = 'a'; //nao pode
+// let if = 'a'; //nao pode
 let obj3 = {
     if:1
 }
